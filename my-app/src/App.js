@@ -101,7 +101,7 @@ const Square=(props) => {
      
     
      
-     <div id=board>
+     <div id="board">
      {renderSquare("-",0)}
      {renderSquare("-",1)}
      {renderSquare("-",2)}

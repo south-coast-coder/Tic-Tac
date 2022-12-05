@@ -108,10 +108,11 @@ const Square=(props) => {
      <br></br>
       <br></br>
       <br></br>
-      <br></br>
+
      {renderSquare("-",3)}
      {renderSquare("-",4)}
      {renderSquare("-",5)}
+     <br></br>
      <br></br>
      <br></br>
      {renderSquare("-",6)}

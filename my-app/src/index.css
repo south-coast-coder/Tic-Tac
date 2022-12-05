@@ -25,4 +25,8 @@ code {
   text-align: center;
   width: 34px;
 }
+#board{
+  margin-left: 20%;
+  margin-top: 60px;
+}
 

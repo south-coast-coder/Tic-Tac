@@ -107,6 +107,8 @@ const Square=(props) => {
      {renderSquare("-",2)}
      <br></br>
       <br></br>
+      <br></br>
+      <br></br>
      {renderSquare("-",3)}
      {renderSquare("-",4)}
      {renderSquare("-",5)}
